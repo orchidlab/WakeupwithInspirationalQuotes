@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/exit"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:title="@string/exit" />
+
+    <item
+        android:id="@+id/setalarm"
+        android:icon="@android:drawable/ic_lock_idle_alarm"
+        android:title="@string/set_alarm" />
+
+    <item
+        android:id="@+id/cancellalarm"
+        android:icon="@android:drawable/ic_delete"
+        android:title="@string/cancell_alarm" />
+
+</menu>

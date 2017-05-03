@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Wake up with Inspirational Quotes</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="cancell_alarm">Cancell Alarm</string>
+    <string name="exit">Exit</string>
+    <string name="today">Todays Quotes</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-0954165513199363/1547813181</string>
+
+    <string-array name="quotes">
+        <item>Only I can change my life. No one can do it for me.…Carol Burnett</item>
+        <item>Life is 10% what happens to you and 90% how you react to it…. Charles R. Swindoll</item>
+        <item>Good, better, best. Never let it rest. Til your good is better and your better is best…. St. Jerome</item>
+        <item>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time…. Thomas A. Edison</item>
+        <item>It always seems impossible until its done… Nelson Mandela</item>
+        <item>Always do your best. What you plant now, you will harvest later…. Og Mandino</item>
+        <item>It does not matter how slowly you go as long as you do not stop….. Confucius</item>
+        <item>Setting goals is the first step in turning the invisible into the visible….. Tony Robbins </item>
+        <item>Quality is not an act, it is a habit….. Aristotle</item>
+        <item>Failure will never overtake me if my determination to succeed is strong enough….. Og Mandino</item>
+        <item>Keep your eyes on the stars, and your feet on the ground….. Theodore Roosevelt</item>
+        <item>The secret of getting ahead is getting started…. Mark Twain</item>
+        <item>Accept the challenges so that you can feel the exhilaration of victory….. George S. Patton</item>
+        <item>You cant cross the sea merely by standing and staring at the water…. Rabindranath Tagore</item>
+        <item>Dont watch the clock; do what it does. Keep going….. Sam Levenson</item>
+        <item>You are never too old to set another goal or to dream a new dream. ….Les Brown</item>
+        <item>Start where you are. Use what you have. Do what you can…... Arthur Ashe</item>
+        <item>Problems are not stop signs, they are guidelines…… Robert H. Schuller</item>
+        <item>When something is important enough, you do it even if the odds are not in your favor…... Elon Musk</item>
+        <item>Never, never, never give up….. Winston Churchill</item>
+        <item>Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step. ….Lao Tzu</item>
+        <item>A creative man is motivated by the desire to achieve, not by the desire to beat others….. Ayn Rand</item>
+        <item>In order to succeed, we must first believe that we can…… Nikos Kazantzakis</item>
+        <item>We may encounter many defeats but we must not be defeated….. Maya Angelou</item>
+        <item>If you want to conquer fear, dont sit home and think about it. Go out and get busy. …Dale Carnegie</item>
+        <item>Set your goals high, and dont stop till you get there….. Bo Jackson</item>
+        <item>Aim for the moon. If you miss, you may hit a star. …..W. Clement Stone</item>
+        <item>Either you run the day or the day runs you….. Jim Rohn</item>
+        <item>Never give up, for that is just the place and time that the tide will turn….. Harriet Beecher Stowe</item>
+        <item>The will to succeed is important, but whats more important is the will to prepare…. Bobby Knight</item>
+        <item>Well done is better than well said…. Benjamin Franklin</item>
+        <item>What you do today can improve all your tomorrows….. Ralph Marston</item>
+        <item>A good plan violently executed now is better than a perfect plan executed next week. George S. …Patton</item>
+        <item>If you dont like how things are, change it! Youre not a tree…. Jim Rohn</item>
+        <item>The most effective way to do it, is to do it……. Amelia Earhart</item>
+        <item>Act as if what you do makes a difference. It does. ….William James</item>
+        <item>You can never quit. Winners never quit, and quitters never win. ……Ted Turner</item>
+        <item>The harder the conflict, the more glorious the triumph……. Thomas Paine</item>
+        <item>There is only one corner of the universe you can be certain of improving, and thats your own self. ….Aldous Huxley</item>
+        <item>Change your life today. Dont gamble on the future, act now, without delay. ….Simone de Beauvoir</item>
+        <item>Dont give up. Dont lose hope. Dont sell out….. Christopher Reeve</item>
+        <item>Pursue one great decisive aim with force and determination….. Carl von Clausewitz</item>
+        <item>Knowing is not enough; we must apply. Willing is not enough; we must do….. Johann Wolfgang von Goethe</item>
+        <item>Theres a way to do it better - find it….. Thomas A. Edison</item>
+        <item>Opportunity does not knock, it presents itself when you beat down the door…… Kyle Chandler</item>
+        <item>Go for it now. The future is promised to no one….. Wayne Dyer</item>
+        <item>Things do not happen. Things are made to happen…… John F. Kennedy</item>
+        <item>You will never win if you never begin……. Helen Rowland</item>
+
+
+    </string-array>
+</resources>
